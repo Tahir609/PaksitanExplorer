@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549376795843",
+    "project_id": "learn-9b975",
+    "storage_bucket": "learn-9b975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549376795843:android:a600459783d8ba243bee76",
+        "android_client_info": {
+          "package_name": "com.example.travelhour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AjRa-Zr7537nIqsFZyh_zEadukcGmuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

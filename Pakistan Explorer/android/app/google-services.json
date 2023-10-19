@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618266762866",
+    "firebase_url": "https://pakistanexplore-cdb45-default-rtdb.firebaseio.com",
+    "project_id": "pakistanexplore-cdb45",
+    "storage_bucket": "pakistanexplore-cdb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618266762866:android:5351757e066c581d60eceb",
+        "android_client_info": {
+          "package_name": "com.example.travelhour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618266762866-qhm5q548lib5lso47t83a5rrombb9k99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelhour",
+            "certificate_hash": "4dc73abd09be9e6c4d2bddd7d0710fb6bf7f1eea"
+          }
+        },
+        {
+          "client_id": "618266762866-9vdp3lh9k476tr12mkggq2qas1l1o4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8y5OeT-Z8fh3v4V0JfnGKZM1VHnuz78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618266762866-6hbgtign8rbgon4a392cae0l9kkvibhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
